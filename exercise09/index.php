@@ -12,7 +12,7 @@
   <?php
     $pesetas = 1000;
     $euros = round($pesetas / 166.386, 2);
-    echo "$pesetas pesetas = $euros euros";
+    echo "<p>$pesetas pesetas = $euros euros</p>";
   ?>
 
   <a href="/">To landing</a>
