@@ -39,6 +39,10 @@
         <ul>
             <a href="./exercise07">Exercise 07</a>
         </ul>
+
+        <ul>
+            <a href="./exercise08">Exercise 08</a>
+        </ul>
     </nav>
 </body>
 
