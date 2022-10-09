@@ -13,7 +13,7 @@
     $euros = 1;
     $pesetas = 1 * 166.386;
 
-    echo "<p>$euros euros = $pesetas = pesetas</p>";
+    echo "<p>$euros euros = $pesetas pesetas</p>";
   ?>
 
   <a href="/">To landing</a>

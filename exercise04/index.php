@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    table, th, td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: .5rem;
+    }
+
+    td {
+      text-align: center;
+    }
+  </style>
   <title>Exercise 04</title>
 </head>
 <body>
