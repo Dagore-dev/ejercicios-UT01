@@ -9,30 +9,29 @@
 <body>
   <h1>Exercise 10</h1>
 
-  <pre>
-
   <?php
     $rows = 5;
 
     for ($row = 0; $row < $rows; $row++)
     { 
+      echo '<div><code>';
       echo_left($rows, $row);
-      echo "*";
+      echo '*';
       echo_right($rows, $row);
+      echo '</code></div>';
     }
 
     function echo_left ($rows, $row)
     {
-      # TODO
+      echo str_repeat('&nbsp;', $rows - $row);
     }
 
     function echo_right ($rows, $row)
     {
-      # TODO
+      echo str_repeat('*', $row * 2);
     }
   ?>
 
-  </pre>
 
   <a href="/">To landing</a>
 </body>
