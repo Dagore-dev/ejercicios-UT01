@@ -1,5 +1,7 @@
 # Exercises UT01
 
+Now also in codeberg
+
 ## Exercise 01
 
 Write a program that displays your name on the screen. It uses PHP code.
